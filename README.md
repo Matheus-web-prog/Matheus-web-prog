@@ -1,7 +1,7 @@
 ### Hi, I'm Matheus 👋
 
-- 🔭 I’m currently development in a ERP System 
-- 🌱 I'm currently learning Oracle Database
+- 👨‍💻 I’m currently development in a ERP System 
+- 📚 I'm currently learning Oracle Database
 
  <div>
   <a href="https://github.com/Matheus-web-prog">

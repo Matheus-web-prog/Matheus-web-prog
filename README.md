@@ -16,7 +16,7 @@
   <img align="center" alt="Skill-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Skill-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <!--<img align="right" alt="Skill-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
-  <img src="https://i.picasion.com/pic91/282dfce8bba1264af14fb2582c321a3a.gif" width="128" height="128" border="0" alt="https://picasion.com/" />
+  <img align="right" alt="GIF" src="https://i.picasion.com/pic91/282dfce8bba1264af14fb2582c321a3a.gif" width="128" height="128" border="0"/>
 </div>
   
   ##

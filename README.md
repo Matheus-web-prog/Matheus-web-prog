@@ -1,6 +1,6 @@
 ### Hi, I'm Matheus 👋
 
-- 👨‍💻 I’m currently development in a ERP System 
+- 👨‍💻 I’m currently development an ERP System 
 - 📚 I'm currently learning Oracle Database
 
  <div>
